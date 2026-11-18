@@ -1,6 +1,6 @@
 # Relatório — Carteira UCITS Moderada
 
-Histórico desde jul/2008 de uma carteira de 11 ETFs UCITS (irlandeses, em USD na Bolsa de Londres), em dólar e em reais: CAGR, volatilidade, quedas, quadro de retorno mês a mês e conferência da carteira em 20/10/2026.
+Histórico desde jul/2008 de uma carteira de 15 ETFs UCITS (irlandeses, em USD na Bolsa de Londres), em dólar e em reais: CAGR, volatilidade, quedas, quadro de retorno mês a mês e ajuste proposto em 06/11/2026.
 
 Página: https://tiagonbc.github.io/relatorio-carteira-ucits/
 
